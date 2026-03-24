@@ -3,7 +3,7 @@
 # 👋 Hola, soy Nelson Quintana – Data Analyst Junior
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-tu@email.com-red)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-tu@email.com-red)](mailto:nelsondqv21@gmail.com)
 
 ¡Bienvenido/a a mi portafolio de análisis de datos! Soy un analista apasionado por transformar datos en insights accionables. Me especializo en **Python, SQL, Power BI y Excel**, con un enfoque en la limpieza de datos, visualización efectiva y storytelling con datos.
 
@@ -39,6 +39,6 @@ Aquí encontrarás una muestra de mi trabajo, organizado por herramienta:
 - **Otros:** Excel avanzado, Git, Jupyter Notebooks
 
 ## 📫 ¿Cómo contactarme?
-Estoy abierto/a a oportunidades en análisis de datos. Puedes escribirme a [tu@email.com](mailto:tu@email.com) o conectar conmigo en [LinkedIn](https://linkedin.com/in/tu-perfil).
+Estoy abierto/a a oportunidades en análisis de datos. Puedes escribirme a [tu@email.com](mailto:nelsondqv21@gmail.com) o conectar conmigo en [LinkedIn](https://linkedin.com/in/tu-perfil).
 
 ¡Gracias por visitar mi portafolio!
