@@ -25,7 +25,7 @@ Aquí encontrarás una muestra de mi trabajo, organizado por herramienta:
 ### 📊 Power BI / Tableau
 | Proyecto | Descripción | Vista Previa | Enlace |
 |----------|-------------|--------------|--------|
-| **Dashboard de Ventas Interactivo** | Panel que muestra KPIs clave, tendencias por región y segmentación dinámica. | [![Vista Previa](link-a-imagen-pequena)](link) | [Ver archivo .pbix](link) |
+| **Dashboard de Ventas Interactivo** | Panel que muestra KPIs clave, tendencias por región y segmentación dinámica. | [![Vista Previa](link-a-imagen-pequena)](link) | [Ver archivo .pbix](Excel-PowerBI/dashboard-supermercado) |
 
 ### 📑 Excel
 | Proyecto | Descripción | Enlace |
