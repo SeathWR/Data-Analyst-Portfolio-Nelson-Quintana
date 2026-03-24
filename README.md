@@ -25,12 +25,12 @@ Aquí encontrarás una muestra de mi trabajo, organizado por herramienta:
 ### 📊 Power BI / Tableau
 | Proyecto | Descripción | Vista Previa | Enlace |
 |----------|-------------|--------------|--------|
-| **Dashboard de Ventas Interactivo** | Panel que muestra KPIs clave, tendencias por región y segmentación dinámica. | [![Vista Previa](link-a-imagen-pequena)](Excel-PowerBI/dashboard-supermercado/images/pagina3_clientes.png) | [Ver archivo .pbix](Excel-PowerBI/dashboard-supermercado) |
+| **Dashboard de Ventas Interactivo** | Panel que muestra KPIs clave, tendencias por región y segmentación dinámica. | [![Vista Previa](link-a-imagen-pequena)](Excel-PowerBI/dashboard-supermercado/images/pagina3_clientes.png) | [Ver archivo ](Excel-PowerBI/dashboard-supermercado) |
 
 ### 📑 Excel
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
-| **Reporte Financiero** | Dashboard interactivo con tablas dinámicas, segmentadores y gráficos. | [Ver archivo .xlsx](link) |
+| **Analisis ventas supermercado** | Dashboard interactivo con tablas dinámicas, segmentadores y gráficos. | [Ver archivo .xlsx](Excel-PowerBI/dashboard-supermercado/Ventas+Supermercado.xlsx) |
 
 ## 🛠️ Herramientas y Tecnologías
 - **Lenguajes:** Python (Pandas, NumPy, Scikit-learn), SQL, R
