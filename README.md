@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio-Nelson-Quintana
 
-# 👋 Hola, soy [Tu Nombre] – Data Analyst Junior
+# 👋 Hola, soy Nelson Quintana – Data Analyst Junior
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-tu@email.com-red)](mailto:tu@email.com)
