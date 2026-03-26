@@ -20,7 +20,8 @@ Aquí encontrarás una muestra de mi trabajo, organizado por herramienta:
 ### 🛢️ SQL
 | Proyecto | Descripción | Consultas Clave | Enlace |
 |----------|-------------|-----------------|--------|
-| **Análisis de Retención de Clientes** | Consultas complejas para calcular cohortes de usuarios, tasa de retención y LTV. | JOINs, CTEs, Funciones de Ventana | [Ver consultas](link) |
+| **Análisis de Ventas con SQL — Supermercado Global 2011–2014** | Consultas analíticas sobre ventas, rentabilidad y logística usando SQL Server
+ | JOINs, CTEs, Funciones de Ventana | [Ver consultas](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/tree/main/SQL/Analisis%20ventas%20supermercado/Querys) |
 
 ### 📊 Power BI / Tableau
 | Proyecto | Descripción | Vista Previa | Enlace |
