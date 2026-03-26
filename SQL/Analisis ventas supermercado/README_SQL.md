@@ -83,7 +83,7 @@ FROM ventas
 GROUP BY nombre_producto
 ORDER BY ingresos_totales DESC;
 ```
-![Resultado](results/01_top_productos.png)
+![Resultado](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/blob/main/SQL/Analisis%20ventas%20supermercado/Resultados/query%201.png)
 
 ---
 
