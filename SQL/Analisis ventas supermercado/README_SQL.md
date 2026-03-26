@@ -101,7 +101,7 @@ FROM ventas
 GROUP BY mercado
 ORDER BY margen_porcentual DESC;
 ```
-![Resultado](results/02_utilidad_mercado.png)
+![Resultado](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/blob/main/SQL/Analisis%20ventas%20supermercado/Resultados/query%202.png)
 
 ---
 
@@ -121,7 +121,7 @@ FROM ventas
 GROUP BY categoria
 ORDER BY pct_perdida DESC;
 ```
-![Resultado](results/03_perdidas_categoria.png)
+![Resultado](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/blob/main/SQL/Analisis%20ventas%20supermercado/Resultados/query%203.png)
 
 ---
 
@@ -144,7 +144,7 @@ GROUP BY pais
 HAVING COUNT(*) > 100
 ORDER BY pct_perdida DESC;
 ```
-![Resultado](results/04_paises_perdidas.png)
+![Resultado](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/blob/main/SQL/Analisis%20ventas%20supermercado/Resultados/query%204.png)
 
 ---
 
@@ -162,7 +162,7 @@ GROUP BY categoria, subcategoria
 HAVING AVG(utilidad) < 0
 ORDER BY utilidad_promedio ASC;
 ```
-![Resultado](results/05_subcategorias_negativas.png)
+![Resultado](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/blob/main/SQL/Analisis%20ventas%20supermercado/Resultados/query%205.png)
 
 ---
 
@@ -182,7 +182,7 @@ FROM ventas
 GROUP BY anio_salida, mercado
 ORDER BY anio_salida, ranking;
 ```
-![Resultado](results/06_ranking_mercados.png)
+![Resultado](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/blob/main/SQL/Analisis%20ventas%20supermercado/Resultados/query%206.png)
 
 ---
 
@@ -206,7 +206,7 @@ FROM ventas
 GROUP BY anio_salida, categoria
 ORDER BY categoria, anio_salida;
 ```
-![Resultado](results/07_variacion_anual.png)
+![Resultado](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/blob/main/SQL/Analisis%20ventas%20supermercado/Resultados/query%207.png)
 
 ---
 
@@ -226,7 +226,7 @@ FROM ventas
 GROUP BY anio_salida, mes_salida
 ORDER BY anio_salida, mes_salida;
 ```
-![Resultado](results/08_acumulado_ventas.png)
+![Resultado](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/blob/main/SQL/Analisis%20ventas%20supermercado/Resultados/query%208.png)
 
 ---
 
@@ -260,7 +260,7 @@ SELECT
 FROM resumen_mercado
 ORDER BY ranking_ventas;
 ```
-![Resultado](results/09_resumen_ejecutivo.png)
+![Resultado](https://github.com/SeathWR/Data-Analyst-Portfolio-Nelson-Quintana/blob/main/SQL/Analisis%20ventas%20supermercado/Resultados/query%209.png)
 
 ---
 
